@@ -1,16 +1,20 @@
-# Python Programs
+# 🐍 Python Programs
 
-Welcome to my Python repository.
+Welcome to my Python practice repository!
 
-## Topics
-- Basic Python
-- Loops
-- Functions
-- Strings
-- Lists
-- Dictionaries
-- File Handling
-- OOP
-- Problem Solving
+This repository contains beginner-friendly Python programs that I have created while learning Python and improving my problem-solving skills.
 
-Thank you for visiting my repository!
+## 📂 Programs Included
+- Hello World
+- Calculator
+- Factorial
+- Prime Number
+
+## 🎯 Goals
+- Learn Python fundamentals
+- Practice problem-solving
+- Improve coding skills
+- Build a strong GitHub profile
+
+---
+⭐ Thank you for visiting my repository!
