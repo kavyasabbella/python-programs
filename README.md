@@ -4,11 +4,16 @@ Welcome to my Python practice repository!
 
 This repository contains beginner-friendly Python programs that I have created while learning Python and improving my problem-solving skills.
 
-## 📂 Programs Included
+## Programs Included
+
 - Hello World
 - Calculator
 - Factorial
 - Prime Number
+- Fibonacci Series
+- Palindrome
+- Armstrong Number
+- Even or Odd
 
 ## 🎯 Goals
 - Learn Python fundamentals
