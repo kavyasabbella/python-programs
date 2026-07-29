@@ -1,12 +1,28 @@
-n = int(input("Enter the number of terms: "))
+# Program: Fibonacci Series
+# Description: This program generates the Fibonacci series for a given number of terms.
 
-a = 0
-b = 1
+try:
+    # Take the number of terms from the user
+    n = int(input("Enter the number of terms: "))
 
-print("Fibonacci Series:")
+    # Check if the number of terms is valid
+    if n <= 0:
+        print("Please enter a positive integer.")
 
-for i in range(n):
-    print(a, end=" ")
-    c = a + b
-    a = b
-    b = c
+    else:
+        first = 0
+        second = 1
+
+        print("Fibonacci Series:")
+
+        # Generate and display the Fibonacci series
+        for i in range(n):
+            print(first, end=" ")
+
+            next_number = first + second
+            first = second
+            second = next_number
+
+except ValueError:
+    # Handle input that is not an integer
+    print("Invalid input! Please enter a valid integer.")
