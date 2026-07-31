@@ -1,25 +1,35 @@
 # 🐍 Python Programs
 
-Welcome to my Python practice repository!
+A collection of beginner-friendly Python programs created to practice and strengthen my programming fundamentals, problem-solving skills, and understanding of core Python concepts.
 
-This repository contains beginner-friendly Python programs that I have created while learning Python and improving my problem-solving skills.
+## 📚 Programs Included
 
-## Programs Included
+- **Hello World** – Basic input and output
+- **Calculator** – Arithmetic operations and input validation
+- **Factorial** – Loops and mathematical operations
+- **Prime Number Checker** – Conditional statements and loops
+- **Fibonacci Series** – Sequence generation using loops
+- **Palindrome Checker** – String manipulation
+- **Armstrong Number Checker** – Number operations and logic
+- **Even or Odd Checker** – Conditional statements
+- **List Operations** – Working with Python lists
+- **Dictionary Operations** – Working with key-value pairs
+- **String Operations** – Common string methods and manipulation
+- **File Handling** – Reading and writing text files
+- **Classes and Objects (OOP)** – Basic object-oriented programming
+- **Exception Handling** – Handling runtime errors using try and except
 
-- Hello World
-- Calculator
-- Factorial
-- Prime Number
-- Fibonacci Series
-- Palindrome
-- Armstrong Number
-- Even or Odd
+## 🧠 Concepts Covered
 
-## 🎯 Goals
-- Learn Python fundamentals
-- Practice problem-solving
-- Improve coding skills
-- Build a strong GitHub profile
-
----
-⭐ Thank you for visiting my repository!
+- Variables and data types
+- User input and output
+- Conditional statements
+- Loops
+- Lists and dictionaries
+- String manipulation
+- Functions and built-in methods
+- File handling
+- Classes and objects
+- Exception handling
+- Input validation
+- Basic problem-solving
