@@ -33,3 +33,24 @@ A collection of beginner-friendly Python programs created to practice and streng
 - Exception handling
 - Input validation
 - Basic problem-solving
+
+## ▶️ How to Run
+
+1. Make sure Python is installed on your computer.
+2. Download or clone this repository.
+3. Open a terminal in the repository folder.
+4. Run any program using:
+
+    python filename.py
+
+Example:
+
+    python calculator.py
+
+## 🎯 Purpose
+
+This repository documents my Python learning journey and demonstrates my understanding of core Python programming concepts.
+
+---
+
+⭐ Feel free to explore the programs and follow my progress.
